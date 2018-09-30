@@ -1,7 +1,3 @@
-// Enable debug prints
-#define MY_DEBUG
-
-#include <SPI.h>
 #include <IRremote.h>
 
 int RECV_PIN=8;
